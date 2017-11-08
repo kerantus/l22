@@ -11,7 +11,7 @@ get '/about' do
 end
 
 get '/writeof' do
-  erb :index_barbershop
+  erb :visit
 end
 
 get '/contacts' do
